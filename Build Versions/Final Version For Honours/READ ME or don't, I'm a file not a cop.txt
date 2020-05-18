@@ -1,0 +1,10 @@
+The game is still in progress, however I would like to share a bit what I have
+planned and implemented so far. Any feedback is more than welcomed, feel free
+to fill up the survey if you would like to support my project:
+https://docs.google.com/forms/d/e/1FAIpQLSf8vIc-iFNplGde9UriyxYG7NsLKMordQqHh9wAmQvmJgWLjw/viewform?usp=sf_link
+
+Known issue(s):
+- Upon changing scene or restarting the game from the credit and a task has been
+selected already, the first line "To do:" might disappear
+- There is no ingame pause and quit, if you feel you had enough, you need to force
+alt + f4 to quit the game
